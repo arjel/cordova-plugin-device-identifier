@@ -44,7 +44,7 @@
             </feature>
         </config-file> -->
 
-        <source-file src="src/android/DeviceIdentifier.java" target-dir="src/com/tamirtw/cordova/plugin/deviceidentifier" />
-    </platform>
+        <!-- <source-file src="src/android/DeviceIdentifier.java" target-dir="src/com/tamirtw/cordova/plugin/deviceidentifier" /> -->
+    <!-- </platform> -->
 
 </plugin>
